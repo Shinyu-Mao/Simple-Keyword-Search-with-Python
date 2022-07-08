@@ -1,2 +1,2 @@
-# Simple-Keyword-Searching-with-Python
-A simple implementation of keyword searching with Python.
+# Simple-Keyword-Search-with-Python
+A simple implementation of keyword search with Python.
